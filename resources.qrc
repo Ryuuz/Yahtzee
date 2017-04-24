@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Yahtzee/die1.png</file>
+        <file>Yahtzee/die2.png</file>
+        <file>Yahtzee/die3.png</file>
+        <file>Yahtzee/die4.png</file>
+        <file>Yahtzee/die5.png</file>
+        <file>Yahtzee/die6.png</file>
+        <file>Yahtzee/rulesButton.png</file>
+        <file>Yahtzee/savedDie.png</file>
+        <file>Yahtzee/scorecard.png</file>
+        <file>Yahtzee/startButton.png</file>
+        <file>Yahtzee/throwButton.png</file>
+        <file>Yahtzee/chooseRow.png</file>
+        <file>Yahtzee/menu.png</file>
+        <file>Yahtzee/rules.png</file>
+    </qresource>
+</RCC>
